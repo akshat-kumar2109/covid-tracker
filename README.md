@@ -1,5 +1,7 @@
 # covid-tracker
 
+## Click to see the live page https://covid-tracker-frontend-a.herokuapp.com/
+
 ## 🏗️: Built With
 
 - React.js
@@ -15,7 +17,7 @@
 
 ### Clone the repo
 ```
-git clone https://github.com/akshat-kumar2109/helping-hand-backend
+git clone https://github.com/akshat-kumar2109/covid-tracker
 ```
 
 ### Backend
@@ -62,4 +64,6 @@ npm install
 npm start
 ````
 
-Thank you.
+
+
+### Thank you.
